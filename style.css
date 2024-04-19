@@ -1,0 +1,23 @@
+.box {
+    width: 100px;
+    height: 100px;
+}
+.red {
+    background-color: rgb(251, 135, 135);
+    position: relative;
+    top: 200px;
+    left: 500px;
+}
+.blue {
+    background-color: rgb(143, 143, 255);
+    position: relative;
+    top: 160px;
+    left: 550px;
+    z-index: 1;
+}
+.green {
+    background-color: rgb(187, 250, 187);
+    position: relative;
+    top: 120px;
+    left: 600px;
+}
